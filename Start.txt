@@ -1,0 +1,37 @@
+Step 1:
+
+Download git from https://git-scm.com/downloads link.
+
+Step 2:
+
+After installing the git. Create your Github Account from
+the following link.
+
+https://github.com/
+
+Step 3:
+
+Create new Repository
+
+Step 4:
+
+Create one folder in your C drive with name ‘git’
+
+Open your Git dash command promt 
+--> cd/ c (Enter into C drive)
+--> ls (it shows list of files in C drive) 
+--> git config --global user.name "XYZ" (Congifure your github user name)
+--> git config --global user.email abc@email.com (Configure your email github address)
+--> git clone Clone link (Clone with HTTPS links)
+--> cd git/
+--> cd Getting-Started/ (find your folder name that you have created on github account) 
+--> Create one file under Getting-Started folder 
+--> git add Hello world.txt (that file into github account through your laptop/desktop) --> git status (You can check status of github account)
+--> git commit -m "lets start" Getting_Github_Started.txt (Write down the file you want to post on Github account)
+--> git push -u origin master (login your account Github account)
+
+
+
+
+
+
